@@ -11,7 +11,7 @@ function SideMenu() {
 					<div className="th-widget-about">
 						<div className="about-logo">
 							<a href="index.html">
-								<img src="/img/logo.svg" alt="Builda" />
+								<img src="/img/evolve-logo-optimized.webp" alt="Evolve Contractors" />
 							</a>
 						</div>
 						<p className="about-text">

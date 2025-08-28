@@ -8,11 +8,11 @@ function Testimonials() {
 					<div className="col-xl-5">
 						<div className="testi-thumb-wrap">
 							<div className="img1">
-								<img src="/img/testimonial/testi_thumb_1_1.png" alt="img" />
+								<img src="/img/evolve/testimonials/solar-panel-side.jpg" alt="img" />
 							</div>
-							<div className="img2 jump">
+							{/* <div className="img2 jump">
 								<img src="/img/testimonial/testi_thumb_1_2.png" alt="img" />
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-xl-7">

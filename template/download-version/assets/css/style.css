@@ -3682,9 +3682,10 @@ Version: 1.0.0
 .th-menu-wrapper .mobile-logo {
   padding-bottom: 30px;
   padding-top: 40px;
+  padding-left: 20px;
   display: block;
   text-align: center;
-  background-color: var(--black-color2);
+  background-color: var(--white-color);
 }
 .th-menu-wrapper .mobile-logo svg {
   max-width: 185px;
@@ -10186,7 +10187,7 @@ Version: 1.0.0
   background: var(--white-color);
 }
 .header-layout1 .sticky-wrapper.sticky {
-  background: var(--black-color2);
+  background: var(--white-color);
 }
 .header-layout1 .simple-icon {
   margin-left: 35px;

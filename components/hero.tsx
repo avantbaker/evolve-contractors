@@ -13,7 +13,7 @@ function Hero() {
 						<div className="hero-inner" data-mask-src="/img/hero/hero_1_bg_mask.png">
 							<div
 								className="th-hero-bg"
-								data-bg-src="https://i.vimeocdn.com/video/1616031593-356f56b509f1781d535b147904411bb48d78b5b01f058312b41e5985a24ebe4f-d"
+								data-bg-src="/img/evolve/originals/mercedez-benz.webp"
 							/>
 							<div className="hero-big-text">EVOLVE</div>
 							<div className="container">

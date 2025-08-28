@@ -2,7 +2,7 @@ import React from 'react';
 
 function CTAArea() {
 	return (
-		<section className="space-bottom bg-black2 overflow-hidden" id="contact-sec">
+		<section className="space-bottom bg-black2 overflow-hidden pt-5" id="contact-sec">
 			<div className="container">
 				<div className="row gy-80 gx-40 align-items-center">
 					<div className="col-xl-6">
@@ -10,7 +10,11 @@ function CTAArea() {
 							className="cta-thumb img-shine"
 							data-mask-src="/img/shape/cta_1_1-img-mask.png"
 						>
-							<img className="w-100" src="/img/normal/cta_1_1.png" alt="img" />
+							<img
+								className="w-100"
+								src="/img/evolve/consultation/atlanta-roof-work.webp"
+								alt="img"
+							/>
 						</div>
 					</div>
 					<div className="col-xl-6">

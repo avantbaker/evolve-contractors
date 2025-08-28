@@ -36,16 +36,19 @@ function Team() {
 										className="team-img"
 										data-mask-src="/img/theme-img/team-shape1.png"
 									>
-										<img src="/img/team/team_1_1.png" alt="Team" />
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/8be462fd-db05-40e2-b276-7415a9146a5b2.jpg/:/cr=t:0%25,l:0.6%25,w:98.8%25,h:100%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
 									</div>
 								</div>
 								<div className="team-card-content">
 									<div className="media">
 										<div className="media-left">
 											<h3 className="box-title">
-												<a href="team-details.html">Michel Smith</a>
+												<a href="team-details.html">Channing Baker</a>
 											</h3>
-											<span className="team-desig">Construction Expert</span>
+											<span className="team-desig">President & CEO</span>
 										</div>
 										<div className="media-body">
 											<a className="icon-btn" href="tel:09876543210">
@@ -80,16 +83,113 @@ function Team() {
 										className="team-img"
 										data-mask-src="/img/theme-img/team-shape1.png"
 									>
-										<img src="/img/team/team_1_2.png" alt="Team" />
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/thumbnail_4454608F-ED56-4E0E-9D24-874D-824235e.jpg/:/cr=t:5.32%25,l:0%25,w:100%25,h:89.36%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
 									</div>
 								</div>
 								<div className="team-card-content">
 									<div className="media">
 										<div className="media-left">
 											<h3 className="box-title">
-												<a href="team-details.html">Sara Prova</a>
+												<a href="team-details.html">Scott Coger</a>
 											</h3>
-											<span className="team-desig">Construction Expert</span>
+											<span className="team-desig">Vice President</span>
+										</div>
+										<div className="media-body">
+											<a className="icon-btn" href="tel:09876543210">
+												<img src="/img/icon/phone.svg" alt="img" />
+											</a>
+										</div>
+									</div>
+									<div className="th-social">
+										<a target="_blank" href="https://facebook.com/">
+											<i className="fab fa-facebook-f" />
+										</a>
+										<a target="_blank" href="https://twitter.com/">
+											<i className="fab fa-twitter" />
+										</a>
+										<a target="_blank" href="https://linkedin.com/">
+											<i className="fab fa-linkedin-in" />
+										</a>
+										<a target="_blank" href="https://youtube.com/">
+											<i className="fab fa-youtube" />
+										</a>
+										<a target="_blank" href="https://instagram.com/">
+											<i className="fab fa-instagram" />
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						{/* <div className="swiper-slide">
+							<div className="th-team team-card">
+								<div className="img-wrap">
+									<div
+										className="team-img"
+										data-mask-src="/img/theme-img/team-shape1.png"
+									>
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/A%20Das%20Headshot%202024.PNG/:/cr=t:0.14%25,l:0%25,w:100%25,h:99.72%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
+									</div>
+								</div>
+								<div className="team-card-content">
+									<div className="media">
+										<div className="media-left">
+											<h3 className="box-title">
+												<a href="team-details.html">Amar Das</a>
+											</h3>
+											<span className="team-desig">Operations Manager</span>
+										</div>
+										<div className="media-body">
+											<a className="icon-btn" href="tel:09876543210">
+												<img src="/img/icon/phone.svg" alt="img" />
+											</a>
+										</div>
+									</div>
+									<div className="th-social">
+										<a target="_blank" href="https://facebook.com/">
+											<i className="fab fa-facebook-f" />
+										</a>
+										<a target="_blank" href="https://twitter.com/">
+											<i className="fab fa-twitter" />
+										</a>
+										<a target="_blank" href="https://linkedin.com/">
+											<i className="fab fa-linkedin-in" />
+										</a>
+										<a target="_blank" href="https://youtube.com/">
+											<i className="fab fa-youtube" />
+										</a>
+										<a target="_blank" href="https://instagram.com/">
+											<i className="fab fa-instagram" />
+										</a>
+									</div>
+								</div>
+							</div>
+						</div> */}
+						<div className="swiper-slide">
+							<div className="th-team team-card">
+								<div className="img-wrap">
+									<div
+										className="team-img"
+										data-mask-src="/img/theme-img/team-shape1.png"
+									>
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/archu-removebg-preview.png/:/cr=t:2.29%25,l:0%25,w:100%25,h:87.8%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
+									</div>
+								</div>
+								<div className="team-card-content">
+									<div className="media">
+										<div className="media-left">
+											<h3 className="box-title">
+												<a href="team-details.html">Archna Malviya</a>
+											</h3>
+											<span className="team-desig">Project Engineer</span>
 										</div>
 										<div className="media-body">
 											<a className="icon-btn" href="tel:09876543210">
@@ -124,16 +224,19 @@ function Team() {
 										className="team-img"
 										data-mask-src="/img/theme-img/team-shape1.png"
 									>
-										<img src="/img/team/team_1_3.png" alt="Team" />
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/KD%20Portrait.jpeg/:/cr=t:5.13%25,l:0%25,w:100%25,h:80%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
 									</div>
 								</div>
 								<div className="team-card-content">
 									<div className="media">
 										<div className="media-left">
 											<h3 className="box-title">
-												<a href="team-details.html">Janny Mari</a>
+												<a href="team-details.html">Kabir Das</a>
 											</h3>
-											<span className="team-desig">Construction Expert</span>
+											<span className="team-desig">General Superintendent</span>
 										</div>
 										<div className="media-body">
 											<a className="icon-btn" href="tel:09876543210">
@@ -168,104 +271,21 @@ function Team() {
 										className="team-img"
 										data-mask-src="/img/theme-img/team-shape1.png"
 									>
-										<img src="/img/team/team_1_1.png" alt="Team" />
+										<img
+											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/BC%20portrait.jpeg/:/cr=t:1.41%25,l:0%25,w:100%25,h:75%25/rs=w:365,h:365,cg:true"
+											alt="Team"
+										/>
 									</div>
 								</div>
 								<div className="team-card-content">
 									<div className="media">
 										<div className="media-left">
 											<h3 className="box-title">
-												<a href="team-details.html">Michel Smith</a>
+												<a href="team-details.html">Bernardo Celidon</a>
 											</h3>
-											<span className="team-desig">Construction Expert</span>
-										</div>
-										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
-												<img src="/img/icon/phone.svg" alt="img" />
-											</a>
-										</div>
-									</div>
-									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
-											<i className="fab fa-facebook-f" />
-										</a>
-										<a target="_blank" href="https://twitter.com/">
-											<i className="fab fa-twitter" />
-										</a>
-										<a target="_blank" href="https://linkedin.com/">
-											<i className="fab fa-linkedin-in" />
-										</a>
-										<a target="_blank" href="https://youtube.com/">
-											<i className="fab fa-youtube" />
-										</a>
-										<a target="_blank" href="https://instagram.com/">
-											<i className="fab fa-instagram" />
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="swiper-slide">
-							<div className="th-team team-card">
-								<div className="img-wrap">
-									<div
-										className="team-img"
-										data-mask-src="/img/theme-img/team-shape1.png"
-									>
-										<img src="/img/team/team_1_2.png" alt="Team" />
-									</div>
-								</div>
-								<div className="team-card-content">
-									<div className="media">
-										<div className="media-left">
-											<h3 className="box-title">
-												<a href="team-details.html">Sara Prova</a>
-											</h3>
-											<span className="team-desig">Construction Expert</span>
-										</div>
-										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
-												<img src="/img/icon/phone.svg" alt="img" />
-											</a>
-										</div>
-									</div>
-									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
-											<i className="fab fa-facebook-f" />
-										</a>
-										<a target="_blank" href="https://twitter.com/">
-											<i className="fab fa-twitter" />
-										</a>
-										<a target="_blank" href="https://linkedin.com/">
-											<i className="fab fa-linkedin-in" />
-										</a>
-										<a target="_blank" href="https://youtube.com/">
-											<i className="fab fa-youtube" />
-										</a>
-										<a target="_blank" href="https://instagram.com/">
-											<i className="fab fa-instagram" />
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="swiper-slide">
-							<div className="th-team team-card">
-								<div className="img-wrap">
-									<div
-										className="team-img"
-										data-mask-src="/img/theme-img/team-shape1.png"
-									>
-										<img src="/img/team/team_1_3.png" alt="Team" />
-									</div>
-								</div>
-								<div className="team-card-content">
-									<div className="media">
-										<div className="media-left">
-											<h3 className="box-title">
-												<a href="team-details.html">Janny Mari</a>
-											</h3>
-											<span className="team-desig">Construction Expert</span>
+											<span className="team-desig">
+												Quality Control & Safety Engineer
+											</span>
 										</div>
 										<div className="media-body">
 											<a className="icon-btn" href="tel:09876543210">

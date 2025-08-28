@@ -11,7 +11,7 @@ function VideoArea() {
 						data-opacity={3}
 						data-mask-src="/img/shape/video_1_1_mask.png"
 					>
-						<img src="/img/normal/video_1_1.png" alt="img" />
+						<img src="/img/evolve/why-choose/four-square-img.jpg" alt="img" />
 						<a
 							href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
 							className="play-btn style3 popup-video"
@@ -21,10 +21,13 @@ function VideoArea() {
 					</div>
 					<div className="video-wrap-details">
 						<div className="title-area mb-45">
-							<h2 className="sec-title">Why Choose Us For Builda Construction</h2>
+							<h2 className="sec-title">
+								Why Choose Us For Your Commercial Roofing Needs
+							</h2>
 							<p className="sec-text">
-								Classic construction refers to building techniques, designs, and materials
-								that emphasize durability, elegance, and traditional craftsmanship.
+								Choosing us for your commercial roofing means getting certified expertise,
+								durable materials, and reliable service—all focused on protecting your
+								investment for the long term.
 							</p>
 						</div>
 						<div className="row gy-4">

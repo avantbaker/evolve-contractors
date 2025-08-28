@@ -9,12 +9,12 @@ function ModileMenu() {
 				</button>
 				<div className="mobile-logo">
 					<a href="index.html">
-						<img src="/img/logo-white.svg" alt="Builda" />
+						<img src="/img/evolve-logo-optimized.webp" alt="Evolve Contractors" />
 					</a>
 				</div>
 				<div className="th-mobile-menu allow-natural-scroll">
 					<ul>
-						<li className="menu-item-has-children">
+						{/* <li className="menu-item-has-children">
 							<a href="#hero">Home</a>
 							<ul className="sub-menu">
 								<li className="menu-item-has-children">
@@ -105,7 +105,7 @@ function ModileMenu() {
 									</ul>
 								</li>
 							</ul>
-						</li>
+						</li> */}
 						<li>
 							<a href="#about-sec">About Us</a>
 						</li>

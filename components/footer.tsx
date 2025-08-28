@@ -12,7 +12,7 @@ function Footer() {
 									<div className="th-widget-about">
 										<div className="about-logo">
 											<a href="index.html">
-												<img src="/img/logo2.svg" alt="Builda" />
+												<img src="/img/evolve-logo-optimized.webp" alt="Builda" />
 											</a>
 										</div>
 										<p className="about-text">
@@ -92,7 +92,7 @@ function Footer() {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-6 col-xl-auto">
+							<div className="d-none col-md-6 col-xl-auto">
 								<div className="widget widget_nav_menu footer-widget">
 									<h3 className="widget_title">Useful Link</h3>
 									<div className="menu-all-pages-container">
@@ -116,7 +116,7 @@ function Footer() {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-6 col-xl-auto">
+							<div className="d-none col-md-6 col-xl-auto">
 								<div className="widget widget_nav_menu footer-widget">
 									<h3 className="widget_title">Explore</h3>
 									<div className="menu-all-pages-container">
@@ -141,7 +141,7 @@ function Footer() {
 								</div>
 							</div>
 						</div>
-						<div className="newsletter-wrap style3">
+						{/* <div className="newsletter-wrap style3">
 							<h5 className="newsletter-title">
 								Newsletter To Get Updated The Latest News
 							</h5>
@@ -156,7 +156,7 @@ function Footer() {
 									</span>
 								</button>
 							</form>
-						</div>
+						</div> */}
 					</div>
 				</div>
 				<div className="copyright-wrap">
@@ -165,7 +165,7 @@ function Footer() {
 							<div className="col-lg-6">
 								<p className="copyright-text">
 									Copyright <i className="fal fa-copyright" /> 2025{' '}
-									<a href="index.html">Builda</a>, All rights reserved.
+									<a href="index.html">Evolve Contractors</a>, All rights reserved.
 								</p>
 							</div>
 							<div className="col-lg-6 text-center text-lg-end">
