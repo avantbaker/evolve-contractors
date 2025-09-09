@@ -12,7 +12,7 @@ function Footer() {
 									<div className="th-widget-about">
 										<div className="about-logo">
 											<a href="index.html">
-												<img src="/img/evolve-logo-optimized.webp" alt="Builda" />
+												<img src="/img/evolve-logo-optimized.webp" alt="Evolve" />
 											</a>
 										</div>
 										<p className="about-text">

@@ -11,7 +11,7 @@ function Header() {
 							<div className="col-auto">
 								<div className="header-logo">
 									<a href="index.html">
-										<img src="/img/evolve-logo-optimized.webp" alt="Builda" />
+										<img src="/img/evolve-logo-optimized.webp" alt="Evolve" />
 									</a>
 								</div>
 							</div>
