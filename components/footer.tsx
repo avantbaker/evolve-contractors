@@ -16,23 +16,24 @@ function Footer() {
 											</a>
 										</div>
 										<p className="about-text">
-											Rapidiously myocardinate cross-platform intellectual capital model.
-											Appropriately create interactive infrastructures
+											Protect your investment and boost curb appeal with our certified,
+											high-quality commercial roofing services—contact us today for a free
+											consultation and reliable results that last.
 										</p>
 										<div className="th-social style7">
-											<a href="https://www.facebook.com/">
+											{/* <a href="https://www.facebook.com/">
 												<i className="fab fa-facebook-f" />
-											</a>
-											<a href="https://www.twitter.com/">
+											</a> */}
+											{/* <a href="https://www.twitter.com/">
 												<i className="fab fa-twitter" />
-											</a>
-											<a href="https://www.linkedin.com/">
+											</a> */}
+											<a href="https://www.linkedin.com/company/evolve-contractors-llc/posts/?feedView=all">
 												<i className="fab fa-linkedin-in" />
 											</a>
-											<a href="https://www.youtube.com/">
+											{/* <a href="https://www.youtube.com/">
 												<i className="fab fa-youtube" />
-											</a>
-											<a href="https://www.instagram.com/">
+											</a> */}
+											<a href="https://www.instagram.com/evolve.contractors/">
 												<i className="fab fa-instagram" />
 											</a>
 										</div>
@@ -48,8 +49,9 @@ function Footer() {
 												<img src="/img/icon/location-dot.svg" alt="img" />
 											</div>
 											<div className="details">
-												<p>789 Inner Lane, Holy park,</p>
-												<p>California, USA</p>
+												<p>1122 Old Chattahoochee Ave NW</p>
+												<p>Suite A</p>
+												<p>Atlanta, GA, USA</p>
 											</div>
 										</div>
 										<div className="info-box_text">
@@ -58,15 +60,15 @@ function Footer() {
 											</div>
 											<div className="details">
 												<p>
-													<a href="tel:+0123456789" className="info-box_link">
-														+01 234 567 890
+													<a href="tel:+6785150220" className="info-box_link">
+														678.515.0220
 													</a>
 												</p>
-												<p>
+												{/* <p>
 													<a href="tel:+09876543210" className="info-box_link">
 														+09 876 543 210
 													</a>
-												</p>
+												</p> */}
 											</div>
 										</div>
 										<div className="info-box_text">
@@ -76,17 +78,17 @@ function Footer() {
 											<div className="details">
 												<p>
 													<a
-														href="mailto:mailinfo00@builda.com"
+														href="mailto:channing@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
 														className="info-box_link"
 													>
-														mailinfo00@builda.com
+														channing@evolve-contractors.com
 													</a>
 												</p>
-												<p>
+												{/* <p>
 													<a href="mailto:support24@builda.com" className="info-box_link">
 														support24@builda.com
 													</a>
-												</p>
+												</p> */}
 											</div>
 										</div>
 									</div>
@@ -170,7 +172,7 @@ function Footer() {
 							</div>
 							<div className="col-lg-6 text-center text-lg-end">
 								<div className="footer-links">
-									<ul>
+									{/* <ul>
 										<li>
 											<a href="contact.html">Terms of service</a>
 										</li>
@@ -180,7 +182,7 @@ function Footer() {
 										<li>
 											<a href="contact.html">Cookies</a>
 										</li>
-									</ul>
+									</ul> */}
 								</div>
 							</div>
 						</div>

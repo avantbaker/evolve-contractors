@@ -46,7 +46,7 @@ function Hero() {
 												with you every step of the way.
 											</p>
 											<a
-												href="contact.html"
+												href="#contact-sec"
 												className="th-btn btn-mask th-btn-icon"
 												data-ani="slideinup"
 												data-ani-delay="0.6s"

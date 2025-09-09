@@ -18,9 +18,9 @@ function About() {
 					</div>
 					<div className="col-auto">
 						<div className="sec-btn">
-							<a href="about.html" className="th-btn btn-mask th-btn-icon">
+							{/* <a href="about.html" className="th-btn btn-mask th-btn-icon">
 								Learn More
-							</a>
+							</a> */}
 						</div>
 					</div>
 				</div>

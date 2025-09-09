@@ -36,22 +36,25 @@ function Testimonials() {
 											<i className="fa-sharp fa-solid fa-star" />
 										</div>
 										<p className="testi-card_text">
-											“Classic construction refers to building techniques, designs, and
-											materials that emphasize durability, elegance, and traditional
-											craftsmanship. This approach is often inspired by historical
-											architecture.”
+											“I’ve worked alongside Channing Baker for over a decade—first as a
+											director of operations and now as a joint venture partner—and I’ve
+											watched him lead over $500 million in commercial construction
+											projects from South Carolina to Dallas. Evolve Contractors brings
+											elite execution and relationship building to every job. He operates
+											with precision, professionalism, and heart. He’s one of the best in
+											the business.”
 										</p>
 										<div className="testi-grid-wrap">
 											<div className="testi-card_profile">
-												<div
+												{/* <div
 													className="avatar"
 													data-mask-src="/img/shape/testi_1_1-mask.png"
 												>
 													<img src="/img/testimonial/testi_1_1.png" alt="avatar" />
-												</div>
+												</div> */}
 												<div className="testi-card_profile-details">
-													<h3 className="testi-card_name">Janny Muna</h3>
-													<span className="testi-card_desig">CEO of Company</span>
+													<h3 className="testi-card_name">Ernest Ellis</h3>
+													<span className="testi-card_desig">CEO of FS360</span>
 												</div>
 											</div>
 											<div className="quote-icon">
@@ -70,22 +73,23 @@ function Testimonials() {
 											<i className="fa-sharp fa-solid fa-star" />
 										</div>
 										<p className="testi-card_text">
-											“Classic construction refers to building techniques, designs, and
-											materials that emphasize durability, elegance, and traditional
-											craftsmanship. This approach is often inspired by historical
-											architecture.”
+											"We would contract with Evolve on future projects. They deliver on
+											full expertise and understanding of their roofing systems. It’s like
+											having a pipeline direct to the manufacturer, with intimate
+											knowledge of various roofing conditions and details.”
 										</p>
 										<div className="testi-grid-wrap">
 											<div className="testi-card_profile">
-												<div
+												{/* <div
 													className="avatar"
 													data-mask-src="/img/shape/testi_1_1-mask.png"
 												>
 													<img src="/img/testimonial/testi_1_2.png" alt="avatar" />
-												</div>
+												</div> */}
 												<div className="testi-card_profile-details">
-													<h3 className="testi-card_name">Alexan Micelito</h3>
-													<span className="testi-card_desig">Senior Manager</span>
+													<h3 className="testi-card_name">Will Callier</h3>
+													<span className="testi-card_desig">Lead Project Manager</span>
+													<span className="testi-card_desig">CIM Group</span>
 												</div>
 											</div>
 											<div className="quote-icon">
@@ -104,22 +108,27 @@ function Testimonials() {
 											<i className="fa-sharp fa-solid fa-star" />
 										</div>
 										<p className="testi-card_text">
-											“Classic construction refers to building techniques, designs, and
-											materials that emphasize durability, elegance, and traditional
-											craftsmanship. This approach is often inspired by historical
-											architecture.”
+											“Channing Baker and his team at Evolve Contractors have delivered
+											over $10M in renovations for us over the past three years,
+											consistently exceeding expectations. I’ve worked with Channing for
+											seven years, and what sets him apart is his dependability,
+											professionalism, and character. He leads with purpose, solves
+											problems proactively, and always finishes strong. You won’t find a
+											more committed partner in this industry.”
 										</p>
 										<div className="testi-grid-wrap">
 											<div className="testi-card_profile">
-												<div
+												{/* <div
 													className="avatar"
 													data-mask-src="/img/shape/testi_1_1-mask.png"
 												>
 													<img src="/img/testimonial/testi_1_3.png" alt="avatar" />
-												</div>
+												</div> */}
 												<div className="testi-card_profile-details">
-													<h3 className="testi-card_name">Brooklyn Simmons</h3>
-													<span className="testi-card_desig">Junior Manager</span>
+													<h3 className="testi-card_name">Randall Dragon</h3>
+													<span className="testi-card_desig">
+														CEO of The Dragon Group
+													</span>
 												</div>
 											</div>
 											<div className="quote-icon">

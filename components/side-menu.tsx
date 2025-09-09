@@ -10,15 +10,15 @@ function SideMenu() {
 				<div className="widget  ">
 					<div className="th-widget-about">
 						<div className="about-logo">
-							<a href="index.html">
+							<a href="/">
 								<img src="/img/evolve-logo-optimized.webp" alt="Evolve Contractors" />
 							</a>
 						</div>
-						<p className="about-text">
+						{/* <p className="about-text">
 							{' '}
 							Rapidiously myocardinate cross-platform intellectual capital model.
 							Appropriately create interactive infrastructures
-						</p>
+						</p> */}
 					</div>
 				</div>
 				<div className="widget  ">
@@ -29,8 +29,9 @@ function SideMenu() {
 								<img src="/img/icon/location-dot.svg" alt="img" />
 							</div>
 							<div className="details">
-								<p>789 Inner Lane, Holy park,</p>
-								<p>California, USA</p>
+								<p>1122 Old Chattahoochee Ave NW</p>
+								<p>Suite A</p>
+								<p>Atlanta, GA, USA</p>
 							</div>
 						</div>
 						<div className="info-box_text">
@@ -39,15 +40,15 @@ function SideMenu() {
 							</div>
 							<div className="details">
 								<p>
-									<a href="tel:+0123456789" className="info-box_link">
-										+01 234 567 890
+									<a href="tel:+6785150220" className="info-box_link">
+										678.515.0220
 									</a>
 								</p>
-								<p>
+								{/* <p>
 									<a href="tel:+09876543210" className="info-box_link">
 										+09 876 543 210
 									</a>
-								</p>
+								</p> */}
 							</div>
 						</div>
 						<div className="info-box_text">
@@ -56,20 +57,23 @@ function SideMenu() {
 							</div>
 							<div className="details">
 								<p>
-									<a href="mailto:mailinfo00@builda.com" className="info-box_link">
-										mailinfo00@builda.com
+									<a
+										href="mailto:channing@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
+										className="info-box_link"
+									>
+										channing@evolve-contractors.com
 									</a>
 								</p>
-								<p>
+								{/* <p>
 									<a href="mailto:support24@builda.com" className="info-box_link">
 										support24@builda.com
 									</a>
-								</p>
+								</p> */}
 							</div>
 						</div>
 					</div>
 				</div>
-				<div className="widget newsletter-widget  ">
+				{/* <div className="widget newsletter-widget  ">
 					<h3 className="widget_title">Subscribe Now</h3>
 					<form className="newsletter-form">
 						<div className="form-group">
@@ -96,7 +100,7 @@ function SideMenu() {
 							<i className="fab fa-vimeo-v" />
 						</a>
 					</div>
-				</div>
+				</div> */}
 			</div>
 		</div>
 	);

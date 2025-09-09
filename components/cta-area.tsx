@@ -24,14 +24,15 @@ function CTAArea() {
 								Have An Upcoming Projects? Let’s Talk to Now!
 							</h2>
 							<p className="sec-text text-white">
-								Rapidiously myocardinate cross-platform intellectual capital model.
-								Appropriately create interactive infrastructures
+								Protect your investment and boost curb appeal with our certified,
+								high-quality commercial roofing services—contact us today for a free
+								consultation and reliable results that last.
 							</p>
 						</div>
 						<div className="btn-wrap">
-							<a href="contact.html" className="th-btn btn-mask th-btn-icon">
+							{/* <a href="contact.html" className="th-btn btn-mask th-btn-icon">
 								Contact Us
-							</a>
+							</a> */}
 							<div className="call-btn style3">
 								<div className="icon-btn">
 									<i className="fas fa-phone" />
@@ -39,7 +40,7 @@ function CTAArea() {
 								<div className="btn-content">
 									<h6 className="btn-title">Call Us Anytime:</h6>
 									<span className="btn-text">
-										<a href="tel:19524357106">+19524357106</a>
+										<a href="tel:678.515.0220">678.515.0220</a>
 									</span>
 								</div>
 							</div>

@@ -31296,6 +31296,10 @@ Version: 1.0.0
 .aminities-card .aminities-card-icon {
   margin-bottom: 8px;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 .aminities-card .aminities-card-icon:after {
   content: "";

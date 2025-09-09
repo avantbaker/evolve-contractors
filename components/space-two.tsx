@@ -24,15 +24,15 @@ function SpaceTwo() {
 					data-slider-options='{"paginationType":"progressbar","breakpoints":{"0":{"slidesPerView":1},"375":{"slidesPerView":"2"},"768":{"slidesPerView":"3"},"992":{"slidesPerView":"4"},"1200":{"slidesPerView":"6"}}}'
 				>
 					<div className="swiper-wrapper">
-						<div className="swiper-slide">
+						{/* <div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
-									<img src="/img/aminities/aminities1-1.png" alt="aminities image" />
-								</div>
+								// <div className="aminities-card-img">
+								// 	<img src="/img/aminities/aminities1-1.png" alt="aminities image" />
+								// </div>
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-1.svg" alt="aminities icon" />
@@ -40,16 +40,16 @@ function SpaceTwo() {
 									<h3 className="box-title">Parking Area</h3>
 								</div>
 							</a>
-						</div>
+						</div> */}
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-2.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-2.svg" alt="aminities icon" />
@@ -60,13 +60,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-3.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-3.svg" alt="aminities icon" />
@@ -77,13 +77,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-4.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-4.svg" alt="aminities icon" />
@@ -94,13 +94,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-5.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-5.svg" alt="aminities icon" />
@@ -111,13 +111,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-6.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-6.svg" alt="aminities icon" />
@@ -128,13 +128,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-1.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-1.svg" alt="aminities icon" />
@@ -145,13 +145,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-1.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-1.svg" alt="aminities icon" />
@@ -162,7 +162,7 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
@@ -179,13 +179,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-3.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-3.svg" alt="aminities icon" />
@@ -196,13 +196,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-4.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-4.svg" alt="aminities icon" />
@@ -213,13 +213,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-5.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-5.svg" alt="aminities icon" />
@@ -230,13 +230,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-6.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-6.svg" alt="aminities icon" />
@@ -247,13 +247,13 @@ function SpaceTwo() {
 						</div>
 						<div className="swiper-slide">
 							<a
-								href="service-details.html"
+								// href="service-details.html"
 								className="aminities-card"
 								data-mask-src="/img/theme-img/aminities-shape1.png"
 							>
-								<div className="aminities-card-img">
+								{/* <div className="aminities-card-img">
 									<img src="/img/aminities/aminities1-1.png" alt="aminities image" />
-								</div>
+								</div> */}
 								<div className="aminities-content">
 									<div className="aminities-card-icon">
 										<img src="/img/icon/aminities-icon1-1.svg" alt="aminities icon" />

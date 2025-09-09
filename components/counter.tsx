@@ -8,33 +8,33 @@ function Counter() {
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								<span className="counter-number">3850</span>+
+								$<span className="counter-number">19.4</span>M
 							</h2>
-							<p className="box-text">COMPLETE PROJECTS</p>
+							<p className="box-text">COMPLETED & ACTIVE CONTRACTS</p>
 						</div>
 					</div>
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								<span className="counter-number">950</span>+
+								$<span className="counter-number">5</span>M
 							</h2>
-							<p className="box-text">TEAM MEMBERS</p>
+							<p className="box-text">BOND CAPACITY</p>
 						</div>
 					</div>
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								<span className="counter-number">18</span>k+
+								$<span className="counter-number">28</span>M
 							</h2>
-							<p className="box-text">SATISFIED CLIENTS</p>
+							<p className="box-text">2025 BID TOTAL</p>
 						</div>
 					</div>
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								<span className="counter-number">100</span>k+
+								<span className="counter-number">50</span>+
 							</h2>
-							<p className="box-text">UPCOMING PROJECTS</p>
+							<p className="box-text">YEARS OF EXPERIENCE</p>
 						</div>
 					</div>
 				</div>

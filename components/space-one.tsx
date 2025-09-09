@@ -17,9 +17,9 @@ function SpaceOne() {
 					</div>
 					<div className="col-auto">
 						<div className="sec-btn">
-							<a href="service.html" className="th-btn btn-mask th-btn-icon">
+							{/* <a href="service.html" className="th-btn btn-mask th-btn-icon">
 								All Services
-							</a>
+							</a> */}
 						</div>
 					</div>
 				</div>
@@ -46,11 +46,11 @@ function SpaceOne() {
 								products, your business stays protected and operational no matter the
 								conditions.
 							</p>
-							<div className="property-btn-wrap">
+							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
 									View Details
 								</a>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>
@@ -77,11 +77,11 @@ function SpaceOne() {
 								energy-efficient, and built to enhance both the protection and appearance
 								of your building for decades.
 							</p>
-							<div className="property-btn-wrap">
+							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
 									View Details
 								</a>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>
@@ -108,11 +108,11 @@ function SpaceOne() {
 								peace of mind, ensuring your roof continues to perform at its highest
 								level.
 							</p>
-							<div className="property-btn-wrap">
+							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
 									View Details
 								</a>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>
@@ -138,11 +138,11 @@ function SpaceOne() {
 								preventing major damage. With a trusted team on call, you can ensure your
 								roofing system continues to perform at its best—year after year.
 							</p>
-							<div className="property-btn-wrap">
+							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
 									View Details
 								</a>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>

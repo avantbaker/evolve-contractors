@@ -19,19 +19,16 @@ function Header() {
 								<nav className="main-menu d-none d-lg-inline-block">
 									<ul>
 										<li>
-											<a href="#about-sec">About Us</a>
+											<a href="#about-sec">About</a>
 										</li>
 										<li>
-											<a href="#service-sec">Service</a>
+											<a href="#service-sec">Services</a>
 										</li>
 										<li>
 											<a href="#team-sec">Team</a>
 										</li>
 										<li>
-											<a href="#blog-sec">Blog</a>
-										</li>
-										<li>
-											<a href="#contact-sec">Contact Us</a>
+											<a href="#project-sec">Projects</a>
 										</li>
 									</ul>
 								</nav>
@@ -48,7 +45,7 @@ function Header() {
 							</div>
 							<div className="col-auto d-none d-xl-block">
 								<div className="header-button">
-									<a href="contact.html" className="th-btn btn-mask th-btn-icon">
+									<a href="#contact-sec" className="th-btn btn-mask th-btn-icon">
 										Contact Us
 									</a>
 									<button type="button" className="simple-icon sideMenuInfo sidebar-btn">

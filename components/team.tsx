@@ -10,16 +10,16 @@ function Team() {
 							<span className="shadow-title">Team</span>
 							<h2 className="sec-title text-white">Our Team Member</h2>
 							<p className="sec-text text-white">
-								We are a real estate firm with over 20 years of expertise, We provide
-								amazing locations to our partners and clients.
+								We are a commercial roofing firm with over 20 years of expertise, We
+								provide amazing services to our partners and clients.
 							</p>
 						</div>
 					</div>
 					<div className="col-auto">
 						<div className="sec-btn">
-							<a href="team.html" className="th-btn btn-mask th-btn-icon">
+							{/* <a href="team.html" className="th-btn btn-mask th-btn-icon">
 								View All Members
-							</a>
+							</a> */}
 						</div>
 					</div>
 				</div>
@@ -51,13 +51,13 @@ function Team() {
 											<span className="team-desig">President & CEO</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -71,7 +71,7 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>
@@ -98,13 +98,13 @@ function Team() {
 											<span className="team-desig">Vice President</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -118,22 +118,19 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>
 						</div>
-						{/* <div className="swiper-slide">
+						<div className="swiper-slide">
 							<div className="th-team team-card">
 								<div className="img-wrap">
 									<div
 										className="team-img"
 										data-mask-src="/img/theme-img/team-shape1.png"
 									>
-										<img
-											src="https://img1.wsimg.com/isteam/ip/60f2e3bd-abcc-44f9-9d78-0cda2fdb6d4d/A%20Das%20Headshot%202024.PNG/:/cr=t:0.14%25,l:0%25,w:100%25,h:99.72%25/rs=w:365,h:365,cg:true"
-											alt="Team"
-										/>
+										<img src="/img/evolve/amar-das.png" alt="Team" />
 									</div>
 								</div>
 								<div className="team-card-content">
@@ -145,13 +142,13 @@ function Team() {
 											<span className="team-desig">Operations Manager</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -165,11 +162,11 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>
-						</div> */}
+						</div>
 						<div className="swiper-slide">
 							<div className="th-team team-card">
 								<div className="img-wrap">
@@ -192,13 +189,13 @@ function Team() {
 											<span className="team-desig">Project Engineer</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -212,7 +209,7 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>
@@ -239,13 +236,13 @@ function Team() {
 											<span className="team-desig">General Superintendent</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -259,7 +256,7 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>
@@ -288,13 +285,13 @@ function Team() {
 											</span>
 										</div>
 										<div className="media-body">
-											<a className="icon-btn" href="tel:09876543210">
+											<a className="icon-btn" href="tel:678.515.0220">
 												<img src="/img/icon/phone.svg" alt="img" />
 											</a>
 										</div>
 									</div>
 									<div className="th-social">
-										<a target="_blank" href="https://facebook.com/">
+										{/* <a target="_blank" href="https://facebook.com/">
 											<i className="fab fa-facebook-f" />
 										</a>
 										<a target="_blank" href="https://twitter.com/">
@@ -308,7 +305,7 @@ function Team() {
 										</a>
 										<a target="_blank" href="https://instagram.com/">
 											<i className="fab fa-instagram" />
-										</a>
+										</a> */}
 									</div>
 								</div>
 							</div>

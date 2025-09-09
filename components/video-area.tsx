@@ -12,12 +12,12 @@ function VideoArea() {
 						data-mask-src="/img/shape/video_1_1_mask.png"
 					>
 						<img src="/img/evolve/why-choose/four-square-img.jpg" alt="img" />
-						<a
+						{/* <a
 							href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
 							className="play-btn style3 popup-video"
 						>
 							<i className="fa-sharp fa-solid fa-play" />
-						</a>
+						</a> */}
 					</div>
 					<div className="video-wrap-details">
 						<div className="title-area mb-45">
