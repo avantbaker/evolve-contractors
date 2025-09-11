@@ -57,9 +57,9 @@ function Services() {
 									<a href="service-details.html">Structural Durability</a>
 								</h3>
 								<p className="box-text">
-									All roofs are engineered to withstand harsh weather, heavy loads, and
-									daily wear. From reinforced membranes to precision installation, every
-									project is built for long-term reliability and low maintenance.
+									All roofs are built to withstand harsh weather, heavy loads, and daily
+									wear. From reinforced membranes to precision installation, every project
+									is built for long-term reliability and low maintenance.
 								</p>
 							</div>
 						</div>

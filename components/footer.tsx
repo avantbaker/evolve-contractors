@@ -16,9 +16,9 @@ function Footer() {
 											</a>
 										</div>
 										<p className="about-text">
-											Protect your investment and boost curb appeal with our certified,
-											high-quality commercial roofing services—contact us today for a free
-											consultation and reliable results that last.
+											Protect your investment and boost with our certified, high-quality
+											commercial roofing services—contact us today for a free consultation
+											and reliable results that last.
 										</p>
 										<div className="th-social style7">
 											{/* <a href="https://www.facebook.com/">
@@ -78,10 +78,10 @@ function Footer() {
 											<div className="details">
 												<p>
 													<a
-														href="mailto:channing@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
+														href="mailto:info@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
 														className="info-box_link"
 													>
-														channing@evolve-contractors.com
+														info@evolve-contractors.com
 													</a>
 												</p>
 												{/* <p>

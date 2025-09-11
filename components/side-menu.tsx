@@ -58,10 +58,10 @@ function SideMenu() {
 							<div className="details">
 								<p>
 									<a
-										href="mailto:channing@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
+										href="mailto:info@evolve-contractors.com?subject=Inquiry from Evolve Contractors"
 										className="info-box_link"
 									>
-										channing@evolve-contractors.com
+										info@evolve-contractors.com
 									</a>
 								</p>
 								{/* <p>

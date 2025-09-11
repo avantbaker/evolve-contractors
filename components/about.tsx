@@ -10,7 +10,7 @@ function About() {
 							<span className="shadow-title">About</span>
 							<h2 className="sec-title text-white">About Us</h2>
 							<p className="sec-text text-white">
-								We are a commercial construction roofing company with over 20 years of
+								We are a commercial construction roofing company with over 50+ years of
 								experience, specializing in delivering safe, durable, and cost-effective
 								roofing solutions for businesses of all sizes.
 							</p>
@@ -28,14 +28,14 @@ function About() {
 					<div className="col-lg-6">
 						<div className="img-box1">
 							<div className="img1 img-shine" data-mask-src="/img/shape/about-1-mask.png">
-								<img src="/img/evolve/about/about-1.webp" alt="About" />
+								<img src="/img/evolve/about/team-2.jpg" alt="About" />
 							</div>
 						</div>
 					</div>
 					<div className="col-lg-6">
 						<div className="img-box1">
 							<div className="img1 img-shine" data-mask-src="/img/shape/about-1-mask.png">
-								<img src="/img/evolve/about/about-2.webp" alt="About" />
+								<img src="/img/evolve/about/team-3.jpg" alt="About" />
 							</div>
 						</div>
 					</div>

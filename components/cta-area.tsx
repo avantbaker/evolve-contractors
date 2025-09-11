@@ -24,9 +24,9 @@ function CTAArea() {
 								Have An Upcoming Projects? Let’s Talk to Now!
 							</h2>
 							<p className="sec-text text-white">
-								Protect your investment and boost curb appeal with our certified,
-								high-quality commercial roofing services—contact us today for a free
-								consultation and reliable results that last.
+								Protect your investment with our certified, high-quality commercial
+								roofing services—contact us today for a free consultation and reliable
+								results that last.
 							</p>
 						</div>
 						<div className="btn-wrap">

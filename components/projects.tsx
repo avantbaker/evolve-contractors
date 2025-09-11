@@ -61,7 +61,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-top-down.jpg"
+														src="/img/evolve/projects/roof-1.jpg"
 														alt="project image"
 													/>
 													{/* <div
@@ -92,7 +92,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-and-dirt.jpg"
+														src="/img/evolve/projects/roof-2.jpg"
 														alt="project image"
 													/>
 													{/* <div
@@ -123,7 +123,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-solar-panels.jpg"
+														src="/img/evolve/projects/roof-3.jpg"
 														alt="project image"
 													/>
 													{/* <div
@@ -154,7 +154,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-top-down.jpg"
+														src="/img/evolve/projects/roof-4.jpg"
 														alt="project image"
 													/>
 													{/* <div
