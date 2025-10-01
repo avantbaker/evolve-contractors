@@ -30,11 +30,11 @@ function Projects() {
 								<div className="title-area mb-40">
 									<span className="shadow-title">PROJECTS</span>
 									<h2 className="sec-title text-white">
-										Building The Future, One Roof at a Time.
+										Built for tomorrow, obsessed with Community, Ownership and Innovation
 									</h2>
 									<p className="sec-text text-white mt-15">
-										Built to withstand the test of time, with strong foundations and
-										high-end construction techniques.
+										Built to withstand the test of time, with strong knowledge and
+										high-end roofing techniques.
 									</p>
 								</div>
 								<div className="btn-wrap">
@@ -61,7 +61,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-1.jpg"
+														src="/img/evolve/projects/roof-1.JPG"
 														alt="project image"
 													/>
 													{/* <div
@@ -92,7 +92,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-2.jpg"
+														src="/img/evolve/projects/roof-2.JPG"
 														alt="project image"
 													/>
 													{/* <div
@@ -123,7 +123,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-3.jpg"
+														src="/img/evolve/projects/roof-3.JPG"
 														alt="project image"
 													/>
 													{/* <div
@@ -154,7 +154,7 @@ function Projects() {
 													// data-bs-target="#portfolioModal"
 												>
 													<img
-														src="/img/evolve/projects/roof-4.jpg"
+														src="/img/evolve/projects/roof-4.JPG"
 														alt="project image"
 													/>
 													{/* <div

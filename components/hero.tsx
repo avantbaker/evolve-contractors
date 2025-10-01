@@ -33,7 +33,7 @@ function Hero() {
 													data-ani="slideindown"
 													data-ani-delay="0.4s"
 												>
-													Solutions with Excellence{' '}
+													Roofing Solutions with Excellence{' '}
 												</span>
 											</h1>
 											<p
@@ -41,9 +41,8 @@ function Hero() {
 												data-ani="slideinup"
 												data-ani-delay="0.5s"
 											>
-												Bringing together a team with passion, dedication, and resources
-												to help our clients reach their buying and selling goals. We are
-												with you every step of the way.
+												We are "Built for Tomorrow" by Investing in Community, Ownership &
+												Innovation
 											</p>
 											<a
 												href="#contact-sec"
@@ -51,7 +50,7 @@ function Hero() {
 												data-ani="slideinup"
 												data-ani-delay="0.6s"
 											>
-												Free Consultation
+												REQUEST A QUOTE TODAY
 											</a>
 										</div>
 									</div>

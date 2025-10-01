@@ -14,13 +14,12 @@ function Services() {
 							</div>
 							<div className="box-content">
 								<h3 className="box-title">
-									<a href="service-details.html">Commercial Expertise</a>
+									<a href="service-details.html">New Construction and Roof Replacement</a>
 								</h3>
 								<p className="box-text">
-									We focus on office buildings, warehouses, retail centers, and industrial
-									facilities. Our team understands the unique requirements of large-scale
-									projects, including safety, efficiency, and minimizing business
-									disruption.
+									Evolve Contractors specializes in complex commercial roof installations
+									and replacements, backed by certifications with all seven major
+									manufacturers to ensure top performance and warranty compliance.
 								</p>
 							</div>
 						</div>
@@ -34,13 +33,12 @@ function Services() {
 							</div>
 							<div className="box-content">
 								<h3 className="box-title">
-									<a href="service-details.html">High-Quality Roofing Systems</a>
+									<a href="service-details.html">Roof Maintenance & Repair Services</a>
 								</h3>
 								<p className="box-text">
-									We use top-tier materials such as TPO, EPDM, PVC, and metal roofing
-									designed for performance and longevity. Energy-efficient coatings and
-									insulation help lower operating costs while improving building
-									performance.
+									Our proactive maintenance and rapid-response repair programs extend roof
+									life, protect assets, and provide transparent digital reporting for
+									commercial property owners.
 								</p>
 							</div>
 						</div>
@@ -54,12 +52,12 @@ function Services() {
 							</div>
 							<div className="box-content">
 								<h3 className="box-title">
-									<a href="service-details.html">Structural Durability</a>
+									<a href="service-details.html">Electronic Leak Detection</a>
 								</h3>
 								<p className="box-text">
-									All roofs are built to withstand harsh weather, heavy loads, and daily
-									wear. From reinforced membranes to precision installation, every project
-									is built for long-term reliability and low maintenance.
+									Evolve offers certified electronic leak detection services that deliver
+									precise, non-destructive testing to safeguard warranties and prevent
+									costly water intrusion.
 								</p>
 							</div>
 						</div>

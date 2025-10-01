@@ -10,9 +10,12 @@ function About() {
 							<span className="shadow-title">About</span>
 							<h2 className="sec-title text-white">About Us</h2>
 							<p className="sec-text text-white">
-								We are a commercial construction roofing company with over 50+ years of
-								experience, specializing in delivering safe, durable, and cost-effective
-								roofing solutions for businesses of all sizes.
+								Evolve Contractors is a minority-owned commercial roofing and construction
+								firm based in Atlanta, specializing in TPO, PVC, EPDM, and metal systems.
+								With a proven record of delivering complex projects for leading
+								developers, schools, and federal agencies, our team combines technical
+								expertise, safety, and innovation to build lasting solutions for clients
+								across the Southeast
 							</p>
 						</div>
 					</div>
@@ -57,9 +60,10 @@ function About() {
 						<div className="col-xl-9">
 							<div className="about-wrap1">
 								<p className="about-text text-white">
-									"Our top priority is protecting your business by providing roofing
-									systems designed not only to last, but to reduce long-term maintenance
-									costs and give you peace of mind year after year."
+									“Evolve Contractors has quickly established itself as a trusted
+									commercial roofing partner on some of Atlanta’s most high-profile
+									projects, consistently solving complex challenges and delivering with
+									precision.” --Jay Bailey
 								</p>
 							</div>
 						</div>
