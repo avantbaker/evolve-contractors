@@ -57,8 +57,8 @@ function Projects() {
 												<div
 													className="portfolio-img img-shine"
 													data-mask-src="/img/shape/project-card1-img-mask.png"
-													// data-bs-toggle="modal"
-													// data-bs-target="#portfolioModal"
+													data-bs-toggle="modal"
+													data-bs-target="#portfolioModal"
 												>
 													<img
 														src="/img/evolve/projects/roof-1.JPG"
@@ -74,8 +74,8 @@ function Projects() {
 												<div className="portfolio-content">
 													<a
 														href="#portfolioModal"
-														// data-bs-toggle="modal"
-														// data-bs-target="#portfolioModal"
+														data-bs-toggle="modal"
+														data-bs-target="#portfolioModal"
 														className="icon-btn"
 													>
 														<img src="/img/icon/arrow-right.svg" alt="img" />

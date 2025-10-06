@@ -24,7 +24,7 @@ function Counter() {
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								$<span className="counter-number">28</span>M
+								$<span className="counter-number">34</span>M
 							</h2>
 							<p className="box-text">2025 BID TOTAL</p>
 						</div>
