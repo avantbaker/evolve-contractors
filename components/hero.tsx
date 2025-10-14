@@ -13,7 +13,7 @@ function Hero() {
 						<div className="hero-inner" data-mask-src="/img/hero/hero_1_bg_mask.png">
 							<div
 								className="th-hero-bg"
-								data-bg-src="/img/evolve/originals/mercedez-benz.webp"
+								data-bg-src="/img/evolve/originals/finished-mercedez-benz.jpeg"
 							/>
 							<div className="hero-big-text">EVOLVE</div>
 							<div className="container">
@@ -199,9 +199,9 @@ function Hero() {
 			</div>
 			<div className="hero-social-link">
 				<div className="social-wrap">
-					<a href="https://facebook.com/">FACEBOOK</a>
-					<a href="https://instagram.com/">INSTAGRAM</a>
-					<a href="https://twitter.com/">TWITTER</a>
+					<a href="https://x.com/EvolveRoofing1">X (TWITTER)</a>
+					<a href="https://www.instagram.com/evolve.contractors/">INSTAGRAM</a>
+					<a href="https://www.linkedin.com/in/channing-baker-24454920/">LINKEDIN</a>
 				</div>
 			</div>
 			<div className="scroll-down">

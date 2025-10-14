@@ -28,23 +28,29 @@ function SpaceOne() {
 						className="property-thumb img-shine"
 						data-mask-src="/img/shape/property-card1-img-mask.png"
 					>
-						<img src="/img/evolve/services/full-flow.jpg" alt="img" />
+						<img src="/img/evolve/services/sized-commercial-low-slope.jpg" alt="img" />
 					</div>
 					<div className="property-card">
 						<div className="property-card-number">01 </div>
 						<div className="property-card-details">
-							<span className="property-card-subtitle">Membrane Systems</span>
+							<span className="property-card-subtitle">
+								Commercial Low-Slope Roofing Systems{' '}
+							</span>
 							<h4 className="property-card-title">
-								<a href="service-details.html">Commercial Membrane TPO, EPDM, PVC</a>
+								<a href="service-details.html">
+									Single-Ply, Bituminous, Restoration Systems & Pavers
+								</a>
 							</h4>
 							<p className="property-card-text">
-								Installing high-performance membrane roofing systems such as TPO, EPDM,
-								and PVC is essential for protecting large commercial properties. These
-								materials provide superior weather resistance, energy efficiency, and low
-								maintenance, making them a cost-effective solution for warehouses, retail
-								centers, and office buildings. With professional installation and durable
-								products, your business stays protected and operational no matter the
-								conditions.
+								TPO: Delivered large-scale, high-rise TPO roofing systems with zero
+								warranty punch items and exceptional seam integrity. PVC: Executed
+								chemical-resistant PVC roofs with flawless detailing around complex
+								mechanical penetrations. EPDM: Installed 80-Mil fully adhered EPDM
+								assemblies achieving 30-year warranties and superior weather performance
+								Modified Bitumen: Applied multi-ply Mod Bit systems with precision torch
+								application ensuring long-term durability. Coating: Restored aging roofs
+								with high-reflectivity coating systems extending service life by over 10
+								years.
 							</p>
 							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
@@ -59,23 +65,24 @@ function SpaceOne() {
 						className="property-thumb img-shine"
 						data-mask-src="/img/shape/property-card1-img-mask.png"
 					>
-						<img src="/img/evolve/services/apartments.jpg" alt="img" />
+						<img src="/img/evolve/services/sized-standing-seam.jpeg" alt="img" />
 					</div>
 					<div className="property-card">
 						<div className="property-card-number">02 </div>
 						<div className="property-card-details">
-							<span className="property-card-subtitle">Standing Seam / Metal</span>
+							<span className="property-card-subtitle">
+								Commercial High Slope Roofing Systems{' '}
+							</span>
 							<h4 className="property-card-title">
-								<a href="service-details.html">Standing Seam & Metal Panel Roofing</a>
+								<a href="service-details.html">Metal, Asphalt & Slate Systems </a>
 							</h4>
 							<p className="property-card-text">
-								Standing seam and metal panel roofing deliver exceptional strength,
-								weather resistance, and long-term performance for commercial properties.
-								These systems feature interlocking panels that create a secure, watertight
-								barrier against leaks, high winds, and harsh conditions. With professional
-								metal panel installation, you get a roof that is low-maintenance,
-								energy-efficient, and built to enhance both the protection and appearance
-								of your building for decades.
+								Metal Panel Roofing: Precision-installed metal panels with long-term
+								durability and corrosion resistance. Standing Seam Roofing: Sleek,
+								watertight standing seam systems built for performance and longevity.
+								Architectural Shingle Roofing: Dimensional shingles delivering lasting
+								beauty and proven protection. Slate Shingle Roofing: Handcrafted slate
+								roofs offering timeless design and century-grade durability.
 							</p>
 							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
@@ -90,23 +97,29 @@ function SpaceOne() {
 						className="property-thumb img-shine"
 						data-mask-src="/img/shape/property-card1-img-mask.png"
 					>
-						<img src="/img/evolve/services/mercedez-benz.jpg" alt="img" />
+						<img src="/img/evolve/services/sized-maintenance.jpg" alt="img" />
 					</div>
 					<div className="property-card">
 						<div className="property-card-number">03 </div>
 						<div className="property-card-details">
-							<span className="property-card-subtitle">Prevention</span>
+							<span className="property-card-subtitle">
+								Commercial Building Contract Services{' '}
+							</span>
 							<h4 className="property-card-title">
-								<a href="service-details.html">Electronic Leak Detection</a>
+								<a href="service-details.html">
+									Roof Maintenance Packages & Electronic Leak Detection{' '}
+								</a>
 							</h4>
 							<p className="property-card-text">
-								Electronic leak detection is a proactive solution for identifying even the
-								smallest breaches in commercial roofing systems before they become costly
-								problems. By using advanced technology to locate hidden leaks with
-								precision, building owners can protect their investment, prevent
-								structural damage, and avoid business disruptions. This service provides
-								peace of mind, ensuring your roof continues to perform at its highest
-								level.
+								Roof Maintenance Preventative maintenance programs designed to maximize
+								roof life and minimize repair costs. Comprehensive inspection reports with
+								photos, condition grading, and proactive repair planning.
+								Manufacturer-certified crews ensure your system stays watertight and
+								warranty-compliant year-round. ELD (Electronic Leak Detection) Advanced
+								electronic testing to accurately locate breaches invisible to the naked
+								eye. Non-destructive technology ideal for verifying waterproofing
+								integrity before and after installation. Provides documented verification
+								for warranty closeout and long-term leak prevention assurance.
 							</p>
 							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">
@@ -126,17 +139,24 @@ function SpaceOne() {
 					<div className="property-card">
 						<div className="property-card-number">04 </div>
 						<div className="property-card-details">
-							<span className="property-card-subtitle">Ongoing</span>
+							<span className="property-card-subtitle">
+								Licenced Commercial General Contractor{' '}
+							</span>
 							<h4 className="property-card-title">
-								<a href="service-details.html">Repair & Maintenance Services</a>
+								<a href="service-details.html">Construction Management Services </a>
 							</h4>
 							<p className="property-card-text">
-								Ongoing repair and maintenance services are essential to extending the
-								life of your commercial roof and protecting your business from unexpected
-								expenses. Regular inspections, preventative maintenance, and timely
-								repairs help identify issues early, reducing costly downtime and
-								preventing major damage. With a trusted team on call, you can ensure your
-								roofing system continues to perform at its best—year after year.
+								Early Design Collaboration: Partnering with owners and architects to align
+								scope, budget, and constructability from day one. Preconstruction & Value
+								Engineering: Comprehensive cost modeling, schedule development, and VE
+								solutions to reduce risk and optimize design. Procurement & Subcontractor
+								Management: Leveraging trusted trade partners and competitive sourcing for
+								quality, cost, and schedule control. Construction Oversight & QA/QC: Daily
+								site management, safety enforcement, and quality control ensuring seamless
+								execution. Owner Communication & Reporting: Transparent project tracking
+								with real-time updates, meeting minutes, and progress documentation.
+								Closeout & Warranty Management: Streamlined turnover packages, punchlist
+								completion, and post-occupancy support for lasting performance.
 							</p>
 							{/* <div className="property-btn-wrap">
 								<a href="service-details.html" className="th-btn btn-mask2 th-btn-icon">

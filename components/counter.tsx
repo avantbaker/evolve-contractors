@@ -16,15 +16,15 @@ function Counter() {
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								$<span className="counter-number">5</span>M
+								$<span className="counter-number">10</span>M
 							</h2>
-							<p className="box-text">BOND CAPACITY</p>
+							<p className="box-text">AGGREGATE BOND CAPACITY</p>
 						</div>
 					</div>
 					<div className="counter-card">
 						<div className="media-body">
 							<h2 className="box-number">
-								$<span className="counter-number">34</span>M
+								$<span className="counter-number">42</span>M
 							</h2>
 							<p className="box-text">2025 BID TOTAL</p>
 						</div>
