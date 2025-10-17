@@ -1357,6 +1357,24 @@
 			lerp: 0.07,
 		});
 
+		window.lenisInstance = lenis;
+
+		const handleModalOpen = () => {
+			lenis.stop();
+		};
+
+		const handleModalClose = () => {
+			lenis.start();
+		};
+
+		window.addEventListener('project-modal:open', handleModalOpen);
+		window.addEventListener('project-modal:close', handleModalClose);
+
+		window.addEventListener('unload', () => {
+			window.removeEventListener('project-modal:open', handleModalOpen);
+			window.removeEventListener('project-modal:close', handleModalClose);
+		});
+
 		lenis.on('scroll', ScrollTrigger.update);
 
 		gsap.ticker.add((time) => {
