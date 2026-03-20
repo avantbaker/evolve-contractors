@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
 	return (
-		<header className="th-header header-layout1 onepage-nav">
+		<header className="th-header header-layout1">
 			<div className="sticky-wrapper">
 				{/* Main Menu Area */}
 				<div className="menu-area">
@@ -10,7 +10,7 @@ function Header() {
 						<div className="row align-items-center justify-content-between">
 							<div className="col-auto">
 								<div className="header-logo">
-									<a href="index.html">
+									<a href="/">
 										<img src="/img/evolve-logo-optimized.webp" alt="Evolve" />
 									</a>
 								</div>
@@ -19,16 +19,16 @@ function Header() {
 								<nav className="main-menu d-none d-lg-inline-block">
 									<ul>
 										<li>
-											<a href="#about-sec">About</a>
+											<a href="/#about-sec">About</a>
 										</li>
 										<li>
-											<a href="#service-sec">Services</a>
+											<a href="/#service-sec">Services</a>
 										</li>
 										<li>
-											<a href="#team-sec">Team</a>
+											<a href="/#team-sec">Team</a>
 										</li>
 										<li>
-											<a href="#project-sec">Projects</a>
+											<a href="/projects">Projects</a>
 										</li>
 									</ul>
 								</nav>
@@ -45,7 +45,7 @@ function Header() {
 							</div>
 							<div className="col-auto d-none d-xl-block">
 								<div className="header-button">
-									<a href="#contact-sec" className="th-btn btn-mask th-btn-icon">
+									<a href="/#contact-sec" className="th-btn btn-mask th-btn-icon">
 										Contact Us
 									</a>
 									<button type="button" className="simple-icon sideMenuInfo sidebar-btn">

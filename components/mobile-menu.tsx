@@ -8,7 +8,7 @@ function ModileMenu() {
 					<i className="fal fa-times" />
 				</button>
 				<div className="mobile-logo">
-					<a href="index.html">
+					<a href="/">
 						<img src="/img/evolve-logo-optimized.webp" alt="Evolve Contractors" />
 					</a>
 				</div>
@@ -107,19 +107,19 @@ function ModileMenu() {
 							</ul>
 						</li> */}
 						<li>
-							<a href="#about-sec">About Us</a>
+							<a href="/#about-sec">About Us</a>
 						</li>
 						<li>
-							<a href="#service-sec">Service</a>
+							<a href="/#service-sec">Service</a>
 						</li>
 						<li>
-							<a href="#team-sec">Team</a>
+							<a href="/#team-sec">Team</a>
 						</li>
 						<li>
-							<a href="#blog-sec">Blog</a>
+							<a href="/projects">Projects</a>
 						</li>
 						<li>
-							<a href="#contact-sec">Contact Us</a>
+							<a href="/#contact-sec">Contact Us</a>
 						</li>
 					</ul>
 				</div>
